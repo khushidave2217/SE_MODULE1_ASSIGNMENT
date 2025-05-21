@@ -1,0 +1,2 @@
+Hello, this is a test file named myupload.txt.
+Used for FTP upload demonstration.
